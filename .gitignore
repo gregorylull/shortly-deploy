@@ -28,5 +28,5 @@ results
 
 npm-debug.log
 node_modules
-public/dist
 azure.err
+public/dist/*
